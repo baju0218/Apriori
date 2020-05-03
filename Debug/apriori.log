@@ -1,0 +1,9 @@
+﻿  apriori.cpp
+C:\Users\백종운\source\repos\apriori\apriori\apriori.cpp(72,11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\백종운\source\repos\apriori\apriori\apriori.cpp(72,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\백종운\source\repos\apriori\apriori\apriori.cpp(100,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\백종운\source\repos\apriori\apriori\apriori.cpp(124,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\백종운\source\repos\apriori\apriori\apriori.cpp(150,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\백종운\source\repos\apriori\apriori\apriori.cpp(259,21): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+C:\Users\백종운\source\repos\apriori\apriori\apriori.cpp(265,16): warning C4101: 'd' :참조되지 않은 지역 변수입니다.
+  apriori.vcxproj -> C:\Users\백종운\source\repos\apriori\Debug\apriori.exe
